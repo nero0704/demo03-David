@@ -1,1 +1,2 @@
-# demo03-David
+Title: Demo03 for COMP1800
+Author: David Nam
